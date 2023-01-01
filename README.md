@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on blockchain applications and tooling. My interest is in solidity and rust for blockchain programming. 
+-  You can check out my manuscript at [jikdo.co](https://www.jikdo.co)
