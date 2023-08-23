@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Hey, I am something of a computer scientist myself
--  I am building OurBlock now.
+-  I am building Our Block now.
