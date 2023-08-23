@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Hey, I am something of a computer scientist myself
--  You can check out my manuscript at [jikdo.co](https://www.jikdo.co)
+-  I am building OurBlock now.
