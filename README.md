@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Hey, I am working on web 33 research and engineering at Pitchblock
+- 🔭 Hey, I am working on web3 research and engineering at Pitchblock
 -  I am building Our Block (a next generation social media platform) and Bifrost (an evm bridging protocol) now.
