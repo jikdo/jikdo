@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Hey, I am working on research and engineering at Pitchblock
--  I am building Our Block (a next generatino social media platform) and Bifrost (an evm bridging protocol) now.
+-  I am building Our Block (a next generation social media platform) and Bifrost (an evm bridging protocol) now.
